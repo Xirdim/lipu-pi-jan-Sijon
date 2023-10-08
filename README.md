@@ -1,6 +1,6 @@
 # lipu pi jan Sijon
 
-『紫苑の書』（セレン＝アルバザード 著）の非公式トキポナ訳。
+『紫苑の書』（セレン＝アルバザード 著）の非公式トキポナ訳。制作途中です。
 
 - 原作: http://conlinguistics.org/arka/works_sev_1.html
   - PDF 版直接リンク: http://conlinguistics.org/arka/images/xion.pdf
